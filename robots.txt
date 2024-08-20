@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lindathadeus.github.io/sitemap.xml
