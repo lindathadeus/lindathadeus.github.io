@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Linda J. N. # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Linda
-middle_name: N.
+middle_name: 
 last_name: Joe Thadeus
 email: lindathadeus@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
