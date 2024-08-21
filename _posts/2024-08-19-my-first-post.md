@@ -20,7 +20,9 @@ Steps
 
 1. Create a repository like <username>.github.io and make the default branch as main
 2. install jekyll, blunder
+3. Follow below cli
 
+{% highlight python %}
 git clone git@github.com:lindathadeus/lindathadeus.github.io.git
 sudo apt install jekyll
 
@@ -30,6 +32,7 @@ jekyll new .
 git add .
 git commit -m "hello github pages"
 git push origin main
+{% endhighlight %}
 
 And, then, goto https://lindathadeus.github.io, thats it!
 
