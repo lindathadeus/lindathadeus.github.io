@@ -6,7 +6,7 @@ subtitle: Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic_shade.jpg
+  image: prof_pic_casual.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Bengaluru, KA</p>
