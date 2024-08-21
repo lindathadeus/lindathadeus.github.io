@@ -21,3 +21,7 @@ The author is a Mom, a NERD, a Software Engineer, and a Tamil Christian Indian, 
 Inspired by her high-performing family, she aims to nurture relationships, reduce toxic behaviors, and cultivate a positive mindset, much like her mother.
 
 She writes about her experiences, both professional and personal, here.
+
+She believes language is ONE.
+
+She also believes that even NARCISSISM (and Avoidant and friends) can be managed just like any physical ailment
