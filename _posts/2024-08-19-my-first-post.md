@@ -2,7 +2,7 @@
 layout: distill
 title: "How to setup github pages?"
 date: 2024-08-19 10:30:00 +0530
-categories: blog
+categories: [blog, linux]
 tags: linux
 ---
 
