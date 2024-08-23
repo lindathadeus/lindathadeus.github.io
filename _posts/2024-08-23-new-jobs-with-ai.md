@@ -24,7 +24,7 @@ But does it mean every knowledge job out there will be made by AI? **NO!** What 
 
 ---
 
-### A Deeper Dive: Expanding the Discussion
+### AI's response:
 
 Your insights form a solid foundation for understanding the evolving job landscape in the AI era. Let's explore a few additional dimensions to enrich the conversation.
 
