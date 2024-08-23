@@ -2,7 +2,7 @@
 layout: distill
 title: Next Jobs
 description: My thoughts on next set of Knowledge Jobs
-tags: distill formatting engineering jobs knowledge thoughts
+tags: distill formatting engineering jobs knowledge thoughts formatting images links math code blockquotes 
 giscus_comments: true
 date: 2024-08-23
 featured: true
