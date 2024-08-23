@@ -306,7 +306,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["linux-networking", "linux-kernel", "yocto", "trauma", "grace", "bond"] # these tags will be displayed on the front page of your blog
-display_categories: ["llm-post", "avoidant-analysis", "linux-post", "brag-post"] # these categories will be displayed on the front page of your blog
+display_categories: ["llm", "linux", "grace", "brag-post"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
