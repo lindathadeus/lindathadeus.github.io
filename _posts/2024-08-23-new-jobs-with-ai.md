@@ -2,7 +2,8 @@
 layout: post
 title: "The Future of Jobs in the AI Era: Who's Safe, Who's at Risk?"
 date: 2024-08-23
-categories: [AI, Job Market]
+categories: [AI, Job Market, llm]
+giscus_comments: true
 tags: [AI, future of work, job security, emerging technologies]
 ---
 

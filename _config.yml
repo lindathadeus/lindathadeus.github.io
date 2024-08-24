@@ -76,7 +76,7 @@ blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
 dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
-facebook_id: lindathadeus # your facebook id
+facebook_id: # your facebook id
 flickr_id: # your flickr id
 github_username: lindathadeus # your GitHub user name
 gitlab_username: # your GitLab user name
@@ -94,7 +94,7 @@ orcid_id: # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
-quora_username: lindathadeus # your Quora username
+quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
 scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
@@ -149,7 +149,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
+  repo: lindathadeus/lindathadeus.github.io # <your-github-user-name>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
@@ -305,8 +305,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["linux-networking", "linux-kernel", "yocto", "trauma", "grace", "bond"] # these tags will be displayed on the front page of your blog
-display_categories: ["llm", "linux", "grace", "brag-post"] # these categories will be displayed on the front page of your blog
+display_tags: ["linux-networking", "linux-kernel", "yocto", "trauma", "grace", "bond", "dharmam", "artham", "kamam", "moksham"] # these tags will be displayed on the front page of your blog
+display_categories: ["llm", "linux", "philosophy", "dsa", "app"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
