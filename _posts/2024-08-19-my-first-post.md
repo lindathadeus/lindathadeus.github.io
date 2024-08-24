@@ -36,6 +36,11 @@ git commit -m "hello github pages"
 git push origin main
 {% endhighlight %}
 
+**How to add comments to the static site?**
+Using Github discussion API and giscus-app, Follow the below tutorial
+https://www.patrickthurmond.com/blog/2023/12/11/commenting-is-available-now-thanks-to-giscus/
+
+
 And, then, goto https://lindathadeus.github.io, thats it!
 
 Hope, you could set it up too :)
