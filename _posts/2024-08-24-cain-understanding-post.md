@@ -5,7 +5,6 @@ layout: post
 categories: philosophy
 tags: grace, dharmam
 giscus_comments: true
-featured: true
 authors:
 - name: Linda Joe Thadeus
 url: "https://lindathadeus.github.io"

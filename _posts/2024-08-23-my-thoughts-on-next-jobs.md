@@ -5,7 +5,6 @@ description: My thoughts on next set of Knowledge Jobs
 tags: formatting engineering jobs knowledge thoughts  blockquotes 
 giscus_comments: true
 date: 2024-08-23
-featured: true
 
 authors:
   - name: Linda Joe Thadeus
