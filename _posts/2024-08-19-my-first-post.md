@@ -20,15 +20,15 @@ So, let us get into it
 
 Steps
 
-1. Create a repository like <username>.github.io and make the default branch as main
+1. Create a repository like username.github.io and make the default branch as main
 2. install jekyll, blunder
 3. Follow below cli
 
 {% highlight python %}
-git clone git@github.com:lindathadeus/lindathadeus.github.io.git
+git clone git@github.com:username/username.github.io.git
 sudo apt install jekyll
 
-cd name.github.io
+cd username.github.io
 jekyll new .
 
 git add .
@@ -36,12 +36,11 @@ git commit -m "hello github pages"
 git push origin main
 {% endhighlight %}
 
+And, then, goto https://username.github.io, thats it!
+
 **How to add comments to the static site?**
-Using Github discussion API and giscus-app, Follow the below tutorial
-https://www.patrickthurmond.com/blog/2023/12/11/commenting-is-available-now-thanks-to-giscus/
-
-
-And, then, goto https://lindathadeus.github.io, thats it!
+Using Github discussion API and giscus-app, Follow the below <a href="https://www.patrickthurmond.com/blog/2023/12/11/commenting-is-available-now-thanks-to-giscus/">
+tutorial</a>
 
 Hope, you could set it up too :)
 Stay tuned for more!
