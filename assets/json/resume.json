@@ -98,7 +98,7 @@
   ],
   "skills": [
     {
-      "name": "Software Engineering",
+      "name": "Advanced Software Engineering",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "name": "Software Engineering",
+      "name": "Intermediate Software Engineering",
       "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
