@@ -11,7 +11,8 @@ url: "https://lindathadeus.github.io"
 affiliations:
 name: SuSE, NITK
 ---
-*** Why did Cain kill Abel? - My POV ***
+
+**Why did Cain kill Abel?**
 
 In the fourth chapter of Genesis, from the Bible, Adam and Eve had 2 sons, Cain and Abel. Cain was farming crops and Abel was rearing sheeps. Cain and Abel were supposed to offer their products to the God, Cain offered probably some average crops for namesake as it was not his first time but Abel being the first time offerer, totally stole the show. Abel offered to the God, the fattest and the best lamb in his farm. Abel hustled hard and was able to make the best of his efforts. Cain’s domain was boring and took too much of his time and he didn’t have enough energy or enthusiasm left in himself to make it his best work, much like the life of an Average Linux Kernel Developer.
 
