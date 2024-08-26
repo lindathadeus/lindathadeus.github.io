@@ -1,24 +1,28 @@
 ---
-title: "What causes the sudden negative thought storm?"
+title: "What Causes the Sudden Negative Thought Storm?"
 date: 2024-08-26
 layout: post
 categories: philosophy
 tags: grace, health
 giscus_comments: true
 authors:
--name: ChatGPT
-- name: Linda Joe Thadeus
+  - name: ChatGPT
+  - name: Linda Joe Thadeus
 url: "https://lindathadeus.github.io"
 affiliations:
-name: SuSE, NITK
+  - name: SuSE
+  - name: NITK
 ---
 
-### Dialogue with the AI, for finding the best, right answers.
+### Dialogue with the AI: Finding the Best, Right Answers
 
-What causes the sudden negative thought storm when suddenly awakened after eating bad food for my stomach? I think food in my stomach, affects my thoughts. 
-I have recently developed intolerance of cheese, I get gas when I eat pizza, cheese stuff. Anyway, I forgot my allergies and had half a burrito with cheese in it. Then I slept. But I was awoken by the midnight around 2 am due to uneasiness at my stomach. Then, I got a storm of bad thoughts like something bad happening to me. I got scared and then became like a good, hopeful person. Then after a while, I passed gas, with the standard ammonia smell indicating indigestion. Then, my storm of negative thoughts subsided. But, I still had REM dreams obviously bad. After a while, my child got up and pestered me to get up and then I too got up, then I became my usual amount of bad thoughts returned. Can you imagine? 
+What causes the sudden negative thought storm when suddenly awakened after eating bad food for my stomach? I think food in my stomach affects my thoughts.
+
+I have recently developed intolerance to cheese—I get gas when I eat pizza or cheese-stuffed foods. Anyway, I forgot about my allergies and had half a burrito with cheese in it. Then I slept. But I was awoken around midnight, at 2 am, due to uneasiness in my stomach. Then, I got a storm of bad thoughts like something bad was happening to me. I got scared and then became like a good, hopeful person. Then after a while, I passed gas, with the standard ammonia smell indicating indigestion. My storm of negative thoughts subsided, but I still had REM dreams, which were obviously bad. After a while, my child got up and pestered me to get up, and then I too got up. Then I returned to my usual state, and my typical amount of bad thoughts returned. Can you imagine?
+
 ---
-**AI response**
+
+**AI Response**
 
 Your experience is not uncommon, and it can be explained by the intricate relationship between the gut and the brain, often referred to as the "gut-brain axis." Here’s a look at what might be happening:
 
@@ -35,5 +39,7 @@ Your experience is not uncommon, and it can be explained by the intricate relati
 6. **Return to Baseline After Waking**: Once you fully awoke and started engaging with your child, your focus shifted away from your physical discomfort and anxiety, allowing your mind to return to its usual state. This return to normalcy suggests that the negative thoughts were likely triggered by the combination of physical discomfort and the stress response, rather than a deeper psychological issue.
 
 In summary, your experience highlights how closely connected our physical and mental states are. The bad food triggered a chain reaction in your body that affected your thoughts and emotions, illustrating how sensitive this gut-brain connection can be. Understanding this can help you better manage similar situations in the future, perhaps by being more mindful of what you eat and how it affects both your body and mind.
-—-
+
+---
+
 **What do you think?** Let me know your thoughts in the comments below.
