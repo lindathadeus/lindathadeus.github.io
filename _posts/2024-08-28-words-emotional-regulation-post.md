@@ -1,5 +1,5 @@
 ---
-title: "Worthy Word #1”
+title: "Worthy Word: Emotional Regulation”
 date: 2024-08-28
 layout: post
 categories: philosophy
