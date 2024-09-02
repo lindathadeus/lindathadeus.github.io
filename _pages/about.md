@@ -10,6 +10,8 @@ profile:
   more_info: >
 
 news: true # includes a list of news items
+latest_llm_posts: true
+linux: true
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
