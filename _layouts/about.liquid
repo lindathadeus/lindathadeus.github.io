@@ -59,9 +59,17 @@ layout: default
     <!-- Recent LLM (categories) posts -->
     {% if page.latest_llm_posts %}
       <h2>
-        <a href="{{ '/category/' | relative_url }}" style="color: inherit">latest LLM posts</a>
+        <a href="{{ '/blog/category/llm' | relative_url }}" style="color: inherit">LLM</a>
       </h2>
       {% include latest_llm_posts.liquid %}
+    {% endif %}
+
+    <!-- Recent Linux (categories) posts -->
+    {% if page.latest_linux_posts %}
+      <h2>
+        <a href="{{ '/blog/category/linux' | relative_url }}" style="color: inherit">Linux</a>
+      </h2>
+      {% include latest_linux_posts.liquid %}
     {% endif %}
 
     <!-- Selected papers -->
