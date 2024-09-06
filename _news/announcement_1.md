@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Hoping to post DAILY! :sparkles: :smile: :sparkles:
+Hoping to post about LLM and Linux! :sparkles: :smile: :sparkles:

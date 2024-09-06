@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Hoping to give 4 posts, DAILY! :sparkles: :smile:
+Hoping to give posts about WORDS, EMOTIONS :sparkles: :smile:
