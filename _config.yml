@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Lovely Us # blog_name will be displayed in your blog page
-blog_description: Lovingly Ambitious, Software Engineering, Philosophy, Connection Analysis
+blog_description: Love, Passion, Software Engineering, Connection - Analysis
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -306,7 +306,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["linux-networking", "linux-kernel", "yocto", "trauma", "grace", "bond", "dharmam", "artham", "kamam", "moksham"] # these tags will be displayed on the front page of your blog
-display_categories: ["llm", "linux", "philosophy", "dsa", "app"] # these categories will be displayed on the front page of your blog
+display_categories: ["llm", "linux", "bonding", "dsa", "app"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
