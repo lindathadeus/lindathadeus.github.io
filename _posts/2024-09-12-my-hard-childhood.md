@@ -2,8 +2,8 @@
 title: "What happened to me - childhood?"
 date: 2024-09-12
 layout: post
-categories: philosophy
-tags: grace, world, words, personal
+categories: personal
+tags: personal
 giscus_comments: true
 authors:
   - name: Linda Joe Thadeus

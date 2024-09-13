@@ -102,6 +102,11 @@ pagination:
     {% endif %}
 
     {% for post in postlist %}
+    
+    <!-- Check if post.tags exists and exclude posts tagged with 'personal' -->
+    {% if post.tags and post.tags contains "personal" %}
+      {% continue %}
+    {% endif %}
 
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
