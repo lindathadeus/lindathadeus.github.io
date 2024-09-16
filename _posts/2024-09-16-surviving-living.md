@@ -2,7 +2,7 @@
 title: "How to transition from surviving to living?"
 date: 2024-09-16
 layout: post
-categories: philosophy, graceful-bonding
+categories: graceful-bonding
 tags: grace, world, graceful-bonding
 giscus_comments: true
 authors:
