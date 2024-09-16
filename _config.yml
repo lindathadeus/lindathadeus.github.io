@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Empathetious # blog_name will be displayed in your blog page
-blog_description: Empathetic, Ambitious - Linux | LLM | Words | Emotions
+blog_description: Empathetic, Ambitious - Linux | LLM | Words & Emotions
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -306,7 +306,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["linux-networking", "linux-kernel", "yocto", "trauma", "grace", "bond", "viruththi", "dharmam", "artham", "sneham", "moksham"] # these tags will be displayed on the front page of your blog
-display_categories: ["llm", "linux", "grace", "dsa", "app", "justice-for-salaried-class"] # these categories will be displayed on the front page of your blog
+display_categories: ["llm", "linux", "graceful-bonding", "dsa", "app", "justice-for-salaried-class"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
