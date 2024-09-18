@@ -27,7 +27,7 @@
       "startDate": "2023-06-01",
       "endDate": "-",
       "summary": "Handling filesystems and networking bugs, Research on Linux Tools, Debugging customer Issues, Debugging Linux User-space and Kernel-space Applications. Notably, recently, the customer noted that the startup process of a database server always failed the first time but ran successfully the next time and we analyzed the vmcore and then studied the probed the tracing infrastructure and found out that the IO was too slow due to the Disk overutilization and then asked tune hypervisor azure settings. And on another instance, we worked on a bug where the customer’s server was having severe network performance bottleneck. We found out that the issue happened whenever the lab system was running SYSTEM BACKUP and also found out that the issue was happening due to the outdated Hypervisor ethernet driver. using system logs and debugging KERNEL packages.",
-      "highlights": ["Customer Bugs", "Oncall Software Engineering", Linux Systems engineering"]
+      "highlights": ["Customer Bugs", "Oncall Software Engineering", "Linux Systems engineering"]
     },
     {
       "name": "Broadcom (Brocade)",
