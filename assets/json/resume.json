@@ -26,8 +26,8 @@
       "url": "https://suse.com",
       "startDate": "2023-06-01",
       "endDate": "-",
-      "summary": "Handling filesystems and networking bugs, Research on Linux Tools, Debugging customer Issues, Debugging Linux User-space and Kernel-space Applications. Notably, recently, the customer noted that the startup process of a database server always failed the first time but ran successfully the next time and we analyzed the vmcore and then studied the probed the tracing infrastructure and found out that the IO was too slow due to the Disk overutilization and then asked tune hypervisor azure settings. And on another instance, we worked on a bug where the customer’s server was having severe network performance bottleneck. We found out that the issue happened whenever the lab system was running SYSTEM BACKUP and also found out that the issue was happening due to the outdated Hypervisor ethernet driver. using system logs and debugging KERNEL packages.",
-      "highlights": ["Customer Bugs", "Oncall Software Engineering", "Linux Systems engineering"]
+      "summary": "Handling filesystems and networking bugs, researching Linux tools, and debugging customer issues, as well as Linux user-space and kernel-space applications. Notably, a customer recently reported that the startup process of a database server always failed on the first attempt but ran successfully on the second. We analyzed the vmcore, probed the tracing infrastructure, and discovered that I/O was too slow due to disk overutilization. We then recommended tuning the Azure hypervisor settings. In another instance, we worked on a bug where the customer’s server experienced severe network performance bottlenecks. We discovered that the issue occurred whenever the lab system was running a system backup. Further investigation revealed that the problem was due to an outdated hypervisor Ethernet driver. We identified these issues using system logs and by debugging kernel packages."
+      "highlights": ["Customer Bugs", "code debugging", "Oncall", "Linux Systems engineering"]
     },
     {
       "name": "Broadcom (Brocade)",
