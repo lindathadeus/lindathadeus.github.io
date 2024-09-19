@@ -3,7 +3,7 @@ title: "Worthy Word #1"
 date: 2024-08-28
 layout: post
 categories: philosophy
-tags: grace, world, words
+tags: grace world words
 giscus_comments: true
 authors:
   - name: Linda Joe Thadeus

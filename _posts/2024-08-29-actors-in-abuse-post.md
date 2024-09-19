@@ -3,7 +3,7 @@ title: "Who are Responsible for an Abuse?"
 date: 2024-08-29
 layout: post
 categories: philosophy
-tags: grace, world, words
+tags: grace world words
 giscus_comments: true
 authors:
   - name: Linda Joe Thadeus

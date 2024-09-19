@@ -3,7 +3,7 @@ title: "How to navigate the trust less world?"
 date: 2024-09-13
 layout: post
 categories: philosophy
-tags: grace, world, words, general
+tags: grace world words general
 giscus_comments: true
 authors:
   - name: Linda Joe Thadeus

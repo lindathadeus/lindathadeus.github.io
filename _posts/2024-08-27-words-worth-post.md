@@ -3,7 +3,7 @@ title: "Worthy words?"
 date: 2024-08-27
 layout: post
 categories: philosophy
-tags: grace, world
+tags: grace world
 giscus_comments: true
 authors:
   - name: Linda Joe Thadeus

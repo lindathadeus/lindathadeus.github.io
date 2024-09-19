@@ -1,10 +1,9 @@
 ---
-title: "Can we the reasoning AI model for DSA Practice 
-?"
+title: "Can we use the reasoning AI model for DSA Practice?"
 date: 2024-09-16
 layout: post
 categories: dsa
-tags: dsa, world, software
+tags: dsa world software
 giscus_comments: true
 authors:
   - name: Linda Joe Thadeus

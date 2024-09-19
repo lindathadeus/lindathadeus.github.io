@@ -3,7 +3,7 @@ title: "Why did Cain kill Abel? - My POV"
 date: 2024-08-24
 layout: post
 categories: philosophy
-tags: grace, dharmam
+tags: grace dharmam
 giscus_comments: true
 authors:
 - name: Linda Joe Thadeus

@@ -3,7 +3,7 @@ title: "Second Brain Management is the WORST"
 date: 2024-08-30
 layout: post
 categories: philosophy
-tags: grace, world, health
+tags: grace world health
 giscus_comments: true
 authors:
   - name: Linda Joe Thadeus

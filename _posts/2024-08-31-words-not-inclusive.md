@@ -3,7 +3,7 @@ title: "Why Words Are Not Enough?"
 date: 2024-08-31
 layout: post
 categories: philosophy
-tags: grace, world, words, one minute
+tags: grace world words one minute
 giscus_comments: true
 authors:
   - name: Linda Joe Thadeus

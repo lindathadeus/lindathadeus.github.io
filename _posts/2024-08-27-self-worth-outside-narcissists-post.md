@@ -3,7 +3,7 @@ title: "Narcissist or Empathetic?"
 date: 2024-08-27
 layout: post
 categories: philosophy
-tags: grace, health
+tags: grace health
 giscus_comments: true
 authors:
   - name: Linda Joe Thadeus
