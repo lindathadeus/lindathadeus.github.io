@@ -1,5 +1,5 @@
 ---
-title: "Scarcity to Abundance: Our Progress Through Revolutions
+title: "Scarcity to Abundance: Our Progress Through Revolutions"
 date: 2024-09-24
 layout: post
 categories: llm
