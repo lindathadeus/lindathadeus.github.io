@@ -1,9 +1,9 @@
 ---
-title: "Scarcity to Abundance: Our Progress Through Revolutions"
+title: "Scarcity to Abundance: Our Revolutions"
 date: 2024-09-24
 layout: post
 categories: llm
-tags: llm, world, general, history
+tags: llm world general history
 giscus_comments: true
 authors:
   - name: Linda Joe Thadeus
@@ -27,20 +27,28 @@ Throughout history, humanity has transitioned from scarcity to abundance, each r
 - **Scarcity Removed:** High mortality.
 - **New Demand:** Food production and human muscle power (mechanical energy).
 
+Early human-beings used to be hunter-gatherers, with hunter-men leaving their women and children for hunting for a longer distance and most times never returned because of some animal attack or they found some other women from the tribe. The survival rate of them were very less on an average. But, all this changed when human beings discovered AGRICULTURE. Women and children were able to manage surviving without the men. They did not have to go into the woods for GATHERING food. Even there was a reduced need for Hunting as Human-beings started DOMESTICATION of animals like sheeps, pigs, buffaloes and used them instead of HUNTING. This reduced the MORTALITY of human-beings. Agricultural practices involved using simple mechanical tools and used manual-labourers. They selectively bred animal and cultivated and nurtured digestible food-crops.
+
 ### 2. Agricultural Revolution
 - **Abundance Created:** Food surplus and population growth.
 - **Scarcity Removed:** Food scarcity.
 - **New Demand:** Tools and mechanical energy at scale to increase productivity.
+
+With the advent of Agriculture, the survival rate increased and suddenly the population exploded giving rise to all higher level problems (when compared to MORTALITY) like, WEALTH-INEQUALITY, SLAVERY, CASTEISM, RACISM. But, people who were not subject to the higher level problems faced the MORTALITY. There came a need for increased food production for feeding the ever growing population and selective people with the agricultural knowledge took advantage of the non-knowledgable using SLAVERY so as to maximize the PROFITS. Then came the GREEN REVOLUTION with the genetically modified seeds, the YIELD/PROFITS became too HIGH eradicating the need for SLAVERY. Suddenly, the human muscle energy became too less. Thus, the need for BETTER TOOLS for TRANSPORTATION of the crops from one place to another and etc.
 
 ### 3. Industrial Revolution
 - **Abundance Created:** Machinery powered by fossil fuels.
 - **Scarcity Removed:** Labor scarcity in production.
 - **New Demand:** Inventory management, faster communication, and large-scale energy supply.
 
+The demand of transportation of the newly found Agricultural Revolution gave birth to HIGH YIELD Crops that would have to be PRESERVED, TRANSPORTED to far away lands, MANAGED naturally wanted a revolution in the vehicles and energy. At this time, SLAVERY was getting abolished and people's earlier skills were nullified and essentially equalised the playing field, thus as a side-effect abolishing slavery. The steam powered railway engines moved to FOSSIL-FUEL powered HIGH-PERFORMANCE railway/ship engines that were faster to transport the finished goods from one place to another. The GOODS manufactured were too high that we had to create software in-place to manage them, talk with clients globally.
+
 ### 4. IT Revolution
 - **Abundance Created:** Data and digital technologies.
 - **Scarcity Removed:** Knowledge scarcity.
 - **New Demand:** Data management, accessibility, and intelligence skills at scale.
+
+The demand for software to manage and communicate resulted in generation of too many digital content waiting to be consumed by people to become knowledgeable and thus creating an EQUALIZER.
 
 ### 5. Education Revolution
 - **Abundance Created:** Skills and education.
