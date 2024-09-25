@@ -3,7 +3,7 @@ title: "Scarcity to Abundance: Our Revolutions"
 date: 2024-09-24
 layout: post
 categories: llm
-tags: llm world general history
+tags: llm world general history hallucination-or-revalation
 giscus_comments: true
 authors:
   - name: Linda Joe Thadeus
