@@ -2,8 +2,8 @@
 title: "AI Conversations: Actions and Words and Thoughts"
 date: 2024-09-29
 layout: post
-categories: [philosophy llm]
-tags: [grace world words general]
+categories: [philosophy, llm]
+tags: [grace, world, words, general]
 giscus_comments: true
 authors:
   - name: Linda Joe Thadeus
