@@ -91,6 +91,7 @@ After rebooting, the Sony laptop was running the custom-compiled Linux kernel!
 Conclusion
 
 This experience of cross-compiling the Linux kernel on my ThinkPad and running it on the Sony laptop was both satisfying and informative. It breathed new life into the Sony laptop, and it reinforced how powerful Linux is when it comes to working with diverse hardware. If you have an older laptop lying around, consider giving it a second life with a custom Linux kernel!
+
 ---
 
 **What do you think?** Let me know your thoughts in the comments below.
