@@ -52,7 +52,7 @@ Since I was compiling the kernel on my ThinkPad, I needed to ensure that the con
 
 {% highlight python %}
 scp user@sony:/boot/config-<version> .config
-make oldconfig
+make ARCH=$(ARCH) CROSS_COMPILE=$(CROSS_COMPILE) O=$(KERNEL_BUILD_DIR) -C $(KERNEL_SRC_DIR) olddefconfig
 {% endhighlight %}
 
 This copied the kernel configuration from the Sony laptop and used it to adjust the new kernel for compatibility.
@@ -62,7 +62,7 @@ Step 4: Cross-Compiling the Kernel
 To cross-compile the kernel, I used the following command:
 
 {% highlight python %}
-make -j$(nproc) ARCH=x86_64
+make -j$$(nproc) ARCH=$(ARCH) CROSS_COMPILE=$(CROSS_COMPILE) O=$(KERNEL_BUILD_DIR) -C $(KERNEL_SRC_DIR)
 {% endhighlight %}
 
 This compiled the Linux kernel for the target architecture of the Sony laptop, while running the build process on my ThinkPad.
