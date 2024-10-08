@@ -2,7 +2,7 @@
 title: "Worthy Word #2 Securely Attached"
 date: 2024-10-08
 layout: post
-categories: [graceful-bonding]
+categories: [philosophy, graceful-bonding]
 tags: [world, grace, general]
 giscus_comments: true
 authors:

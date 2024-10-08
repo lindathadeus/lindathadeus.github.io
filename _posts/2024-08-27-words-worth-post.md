@@ -2,7 +2,7 @@
 title: "Worthy words?"
 date: 2024-08-27
 layout: post
-categories: philosophy
+categories: [philosophy, graceful-bonding]
 tags: grace world
 giscus_comments: true
 authors:
