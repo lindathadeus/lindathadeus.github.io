@@ -1,6 +1,6 @@
 ---
 title: "Worthy Word #2 Securely Attached"
-date: 2024-10-09
+date: 2024-10-08
 layout: post
 categories: [graceful-bonding]
 tags: [world, grace, general]
