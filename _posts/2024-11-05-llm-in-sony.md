@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Survey of Existing Solutions in LLM"
-date: 2024-08-23
+date: 2024-11-05
 categories: [llm]
 giscus_comments: true
 tags: [AI, future of work, emerging technologies, llm]
@@ -21,7 +21,7 @@ authors:
 
 * **Purpose**: The survey of existing solutions in LLM is conducted to know the structure of each solution in terms of cost of the solution, environmental cost, hardware cost, human-power cost, input data, output data, input’s parameters like size, human-made or ai-generated, output parameters like quality, quality parameters like likeability by the readers, function on the likeability by the readers like how many readers liked how much, etc. It also defines various words used in the LLM, demystifying the meaning for the readers.  
 * **Scope**: We will be covering the major parameters of different solutions at a high level. We will also do implementations for some of them.  
-* **Key Findings**: TODO: High-level summary of the insights from the survey.
+* **Key Findings**: The average user of LLM is an API/Cloud LLM user, for truly enjoying the LLM technology, one has to build LLMs from scratch and for best of the both worlds, one can opt for Hybrid ones.
 
 ### **2\. Introduction**
 
