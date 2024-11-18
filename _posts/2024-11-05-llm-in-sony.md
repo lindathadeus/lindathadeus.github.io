@@ -140,8 +140,6 @@ while True:
 ---
 
 **Appendix**
-
-**References**: List of sources consulted.  
 [https://chatgpt.com/g/g-wjwrMf1LL-emotions-stabilizer](https://chatgpt.com/g/g-wjwrMf1LL-emotions-stabilizer)
 
 ---
