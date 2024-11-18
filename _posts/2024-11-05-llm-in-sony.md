@@ -132,11 +132,6 @@ while True:
 	print(f"AI: {response}")
 {% endhighlight %}
 
-### **6\. Conclusion**
-
-**Summary of Key Points**: Recap of the major takeaways from the survey.  
-**Final Thoughts**: Concluding remarks on the state of the technology and its solutions.
-
 ---
 
 **Appendix**
