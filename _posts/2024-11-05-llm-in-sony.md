@@ -139,6 +139,35 @@ while True:
 **Appendix**
 [https://chatgpt.com/g/g-wjwrMf1LL-emotions-stabilizer](https://chatgpt.com/g/g-wjwrMf1LL-emotions-stabilizer)
 
+**Terms**
+LLM (Large Language Model): A computer program trained on a lot of text data to understand and generate human-like language.
+
+World View: The perspective or way of thinking that influences how someone interprets information or generates content.
+
+Unstructured Data: Information like text, images, or videos that doesn’t follow a fixed format or structure, making it harder to organize and analyze.
+
+Dataset: A collection of related data used to train or test a machine learning model.
+
+GPT (Generative Pre-trained Transformer): A type of LLM developed by OpenAI that is trained to generate text by predicting the next word based on the context.
+
+Hugging Face: A company and platform offering tools and pre-trained models for working with LLMs, often open-source and easy to customize.
+
+OpenAI: The organization that created GPT models like ChatGPT. It focuses on building and deploying AI technologies.
+
+ChatGPT: A chatbot built using GPT, designed to interact with users conversationally by understanding and generating natural language.
+
+LLAMA (Large Language Model Meta AI): An LLM developed by Meta (Facebook's parent company), focusing on being efficient and adaptable for research and applications.
+
+Microsoft Phi: A smaller LLM developed by Microsoft, known for being efficient while maintaining good performance.
+
+Training: The process of teaching an LLM by feeding it large amounts of data so it can learn patterns and relationships in language.
+
+Finetuning: A process where an already trained LLM is further trained on specific data to make it better at a particular task.
+
+Inference: Using a trained LLM to generate answers, predictions, or responses based on input from a user.
+
+Foundational LLM: A basic or core LLM trained on large general datasets, which can be further customized or used for various applications.
+
 ---
 
 **What do you think?** Let me know your thoughts in the comments below. Together, we can navigate this evolving landscape and find our place in the future of work.
