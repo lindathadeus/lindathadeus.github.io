@@ -50,9 +50,7 @@ The question is: Will we act before the meteorite strikes?
 
 **Conclusion: Time to Rethink Our Systems**
 
-Capitalism has achieved incredible things, from technological breakthroughs to improved standards of living for many. But it’s also left billions behind and pushed our planet to its limits.
-
-Socialism, with its focus on equity and sustainability, offers a path forward. It’s time to ask ourselves: Can we afford to let capitalism continue unchecked, or is it time to embrace a system that works for everyone?
+Capitalism has achieved incredible things, from technological breakthroughs to improved standards of living for many. But it’s also left billions behind and pushed our planet to its limits. It’s time to ask ourselves: Can we afford to let capitalism continue unchecked, or is it time to embrace a system that works for everyone?
 ---
 
 **What do you think?** Is capitalism a hungry dinosaur doomed to fall, or can it adapt to avoid extinction? Let me know your thoughts in the comments below!
