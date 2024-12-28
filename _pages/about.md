@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-A Mom, a NERDy partner, a Software Engineer, and a Tamil Christian (with some of the family still being Staunch Hindu) Indian and interested in Buddhism, Atheism and Agnosticism, driven by a strong desire for personal and professional growth. With expertise in Linux driver and networking, she enjoys analyzing expressions and words. Naturally, she also examines the "MASTERS of WORDS - The Narcissists and friends."
+Parent, Partner, Software Engineer, Tamil from Cape Comerin, India, follows Jesus, Hindu Saints and Buddha, driven by a strong desire for personal and professional growth. With expertise in Linux driver and networking, she enjoys analyzing expressions and words. Naturally, she also examines the "MASTERS of WORDS - The Narcissists and friends."
 
 She is currently working in SuSE, as a software engineer, so she will post about Linux Kernel Development, LLM Development, Tools and usage guides
 
