@@ -26,6 +26,9 @@ Let’s first look into the word “Shadow”. The word “Shadow” comes from 
 
 These traits (non-acceptable, consciously repressed for some reason) that are masked behind the outwardly same niceness, are “Shadow Traits”. Any work done on the Shadow to hopefully improve the darkness is “Shadow Work”.
 
+P.S.
+Now, why is it important for us to understand the shadow traits of a person. Actually, not for a person in a professional setting, but for someone who is entering the personal space of their desirable partner, it is very empowering to know their "Shadow Traits". Because, if the shadow traits were luckily just hugging or something positive, then it would not hurt, but when they are negative, then, it's bad for the desiring person. Knowing the "Shadow Traits" empower the potential partners. AI might be finetuned to understand the shadow traits of a person a bit and used alongside dating apps. Also, some say that prisoners have positive shadow too.
+
 ---
 
 **What do you think?** Let me know your thoughts in the comments below!
