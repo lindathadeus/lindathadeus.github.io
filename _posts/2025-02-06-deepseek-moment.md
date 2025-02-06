@@ -29,7 +29,7 @@ So, now all the players are trying to bring the training cost down. That’s goo
 
 The current wave is to make an ethical and moral AI. And India, the birthplace of morals and ethics, with her rich literature on the subject, can actually surf the current wave. 
 
-Could India finally free herself from the West or the East?
+Could India finally become a Global Spiritual Leader?
 
 ---
 
