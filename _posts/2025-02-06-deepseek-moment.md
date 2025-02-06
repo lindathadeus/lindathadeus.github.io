@@ -1,5 +1,5 @@
 ---
-title: "The Deepsake Wave"
+title: "The Deepseek Wave"
 date: 2025-02-06
 layout: post
 categories: [llm]
