@@ -12,7 +12,7 @@ authors:
       - name: SuSE
       - name: NITK
 ---
-The Deepseek Wave: Who’s under risk actually?
+**The Deepseek Wave: Who’s under risk actually?**
 In this post, we are gonna look at the first TSUNAMI of an Innovation that happened in the AI field. 
 
 Disclaimer: This is not an endorsement of Deepseek family of LLMs but rather an information of an important innovation in the AI field. 
