@@ -16,10 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Parent, Partner, Software Engineer, Tamil from Cape Comorin, India, follows Jesus, Hindu Saints and Buddha, driven by a strong desire for personal and professional growth. With expertise in Linux driver and networking, she enjoys analyzing expressions and words. Naturally, she also examines the "MASTERS of WORDS - The Narcissists and friends."
+Parent, Partner, Software Engineer, Tamil from Kanya Kumari, currently residing in Bangalore, India, follows Jesus, Hindu Saints and Buddha, driven by a strong desire for personal and professional growth.
 
-She is currently working in SuSE, as a software engineer, so she will post about Linux Kernel Development, LLM Development, Tools and usage guides
+She is currently working in SuSE, as a software engineer, so she will post about Linux Kernel Development, LLM Development, Tools and usage guides.
 
-Inspired by her family, she aims to nurture grace in relationships, reduce toxic behaviors, and cultivate a positive mindset, much like her mother.
-
-She writes about her experiences, both professional and personal, here.
+She aims to nurture grace in relationships, reduce toxic behaviors, and cultivate a positive mindset, much like her mother.
