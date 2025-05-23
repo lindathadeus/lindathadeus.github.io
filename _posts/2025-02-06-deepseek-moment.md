@@ -9,8 +9,8 @@ authors:
   - name: Linda Joe Thadeus
     url: "https://lindathadeus.github.io"
     affiliations:
-      - name: SuSE
-      - name: NITK
+      - name: Org
+      - name: Clg
 ---
 **The Deepseek Wave: Who’s under risk actually?**
 In this post, we are gonna look at the first TSUNAMI of an Innovation that happened in the AI field. 

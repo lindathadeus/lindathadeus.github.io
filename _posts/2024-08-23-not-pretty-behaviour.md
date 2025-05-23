@@ -9,7 +9,7 @@ authors:
   - name: Linda Joe Thadeus
     url: "https://lindathadeus.github.io"
     affiliations:
-      name: SuSE, NITK
+      name: Org, NITK
 ---
 Hi folks,
 Today we are going to understand 2 different personality styles, a Narcissist and an Avoidant.

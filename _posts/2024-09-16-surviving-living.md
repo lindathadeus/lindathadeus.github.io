@@ -9,8 +9,8 @@ authors:
   - name: Linda Joe Thadeus
     url: "https://lindathadeus.github.io"
 affiliations:
-  - name: SuSE
-  - name: NITK
+  - name: Org
+  - name: Clg
 ---
 
 In life and business, direct tools like coercion or force can lead to short-term gains but cause long-term harm. What if we could transform these tools into strategies that benefit everyone? Let's take a familiar example: Indian parents hitting their kids to discipline them. Neither the parent nor the child is happy, and the long-term emotional harm outweighs the short-term behavior correction. The same applies in business—direct force rarely builds lasting success. Instead, we can use **capitalism’s principles** to create value-driven strategies that achieve goals while fostering positive relationships.

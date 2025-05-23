@@ -10,7 +10,7 @@ authors:
   - name: Linda Joe Thadeus
     url: "https://lindathadeus.github.io"
     affiliations:
-      name: SuSE, NITK
+      name: Org, NITK
 ---
 
 Hi Everyone,

@@ -10,8 +10,8 @@ authors:
   - name: Linda Joe Thadeus
 url: "https://lindathadeus.github.io"
 affiliations:
-  - name: SuSE
-  - name: NITK
+  - name: Org
+  - name: Clg
 ---
 
 ### Dialogue with the AI: Finding the Best, Right Answers

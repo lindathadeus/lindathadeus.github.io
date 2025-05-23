@@ -13,8 +13,8 @@ authors:
   - name: Linda Joe Thadeus
     url: "https://lindathadeus.github.io"
     affiliations:
-      - name: SuSE
-      - name: NITK
+      - name: Org
+      - name: Clg
 ---
 
 ### Dialogue with ChatGPT: Finding the Best Possible Places

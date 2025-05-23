@@ -9,8 +9,8 @@ authors:
   - name: Linda Joe Thadeus
     url: "https://lindathadeus.github.io"
     affiliations:
-      - name: SuSE
-      - name: NITK
+      - name: Org
+      - name: Clg
   - name: ChatGPT
     url: "https://openai.com"
     affiliations:

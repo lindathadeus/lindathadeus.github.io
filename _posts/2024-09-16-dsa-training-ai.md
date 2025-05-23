@@ -9,8 +9,8 @@ authors:
   - name: Linda Joe Thadeus
     url: "https://lindathadeus.github.io"
     affiliations:
-      - name: SuSE
-      - name: NITK
+      - name: Org
+      - name: Clg
 ---
 The openAI has released a reasoning AI that can solve Marhematical problems. I asked it to count the no. of Rs in the strawberry and it responded correctly.
 People also say that it is solving JEE questions. 
