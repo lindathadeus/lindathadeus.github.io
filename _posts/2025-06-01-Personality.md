@@ -10,7 +10,8 @@ authors:
     url: "https://lindathadeus.github.io"
 
 ---
-Worthy Words #4: Personality Traits 
+**Worthy Words #4: Personality Traits**
+
 In this post on **Worthy Words**, we are gonna look at the various types personality traits. **Worthy Words** is a blog series, where I discuss some of the important words, which I think and hope would help others. 
 
 Disclaimer: This is not psychological guidance or medical advice but rather a blog about personality trait words. Also, I wrote this using ChatGPT. So, don’t trust it for its words.
