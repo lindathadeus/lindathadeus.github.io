@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Views are personal.
-Parent, Partner, Software Engineer, Tamil, writes predominantly in English, follows Jesus, Hindu Saints and Buddha, driven by a strong desire for personal and professional growth.
+Parent, Partner, Software Engineer, speaks Tamil/English/Kannada/Hindi, writes and reads predominantly in English, follows Jesus, Hindu Saints and Buddha, driven by a strong desire for personal and professional growth.
