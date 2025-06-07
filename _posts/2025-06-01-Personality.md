@@ -48,7 +48,7 @@ BPD is marked by emotional intensity and instability in relationships. People wi
 **Core Fear**: Abandonment
 **Defense Mechanism**: Cling-push behavior, emotional extremes
 **Inner belief**: “I can’t survive alone, but I can’t trust you.”
-**One-liner**: I’m gonna be exploding violently (usually self destructive) at the first hurdle.
+**One-liner**: I’m gonna be exploding violently (usually self destructive or self-sacrificing) at the first hurdle.
 
 ⸻
 
