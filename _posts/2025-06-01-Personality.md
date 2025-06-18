@@ -20,7 +20,7 @@ Disclaimer: This is not psychological guidance or medical advice but rather a bl
 
 Personality disorders often get misunderstood and lumped together, but each has distinct emotional cores, behaviors, and fears. Let’s break down three of the most commonly confused: Avoidant Personality Disorder (AvPD), Narcissistic Personality Disorder (NPD), and Borderline Personality Disorder (BPD).
 
-⸻
+---
 
 **Avoidant Personality Disorder (AvPD)**
 People with AvPD desperately want connection but believe they are deeply flawed and unworthy. They avoid relationships, jobs, and new situations because they fear rejection or embarrassment. They might appear shy, socially anxious, or emotionally distant — but inside, they’re often full of self-doubt and pain.
@@ -30,7 +30,7 @@ People with AvPD desperately want connection but believe they are deeply flawed 
 **Inner belief**: “I’m not good enough; they’ll hurt me.”
 **One-liner**: I’m gonna runaway at the first hurdle.
 
-⸻
+---
 
 **Narcissistic Personality Disorder (NPD)**
 NPD is often mistaken for just arrogance, but it’s more about fragile self-esteem hidden behind a mask of superiority. People with NPD crave admiration, struggle to empathize with others, and may manipulate or belittle to maintain a sense of control or power. They fear shame and being seen as “ordinary.”
@@ -40,7 +40,7 @@ NPD is often mistaken for just arrogance, but it’s more about fragile self-est
 **Inner belief**: “If I’m not admired, I’m nothing.”
 **One-liner**: I’m gonna manipulate you on the first hurdle.
 
-⸻
+---
 
 **Borderline Personality Disorder (BPD)**
 BPD is marked by emotional intensity and instability in relationships. People with BPD often fear abandonment and may swing between idealizing and devaluing those close to them. Their moods can shift rapidly, and they may act impulsively out of fear, anger, or loneliness.
@@ -50,7 +50,7 @@ BPD is marked by emotional intensity and instability in relationships. People wi
 **Inner belief**: “I can’t survive alone, but I can’t trust you.”
 **One-liner**: I’m gonna be exploding violently (usually self destructive or self-sacrificing) at the first hurdle.
 
-⸻
+---
 
 **Why It Matters**
 
@@ -64,7 +64,7 @@ There’s early shame. Then, there’s a fear of shame, when the solution is not
 One Easy solution currently could be, preventing Early Shame. 
 
 
-—-
+—--
 
 Ref:
 - American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR).
