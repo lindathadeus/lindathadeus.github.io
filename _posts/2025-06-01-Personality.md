@@ -59,7 +59,7 @@ Understanding these disorders helps reduce stigma and encourages compassion. Non
 --- 
 **A Perspective**
 
-There’s early shame. Then, there’s a fear of shame, when the solution is not calculated then it is Borderline Personality Disorder because it mostly leads to self-sabotage. Narcissistic Personality Disorder is a calculated solution involving manipulation of others. Avoidant personality is a collapse from the narcissistic personality, due to the awareness of people’s judgments or unwillingness to manipulate, still a calculated solution.
+There’s early shame. Then, there’s a fear of shame, when the solution is not calculated then it is Borderline Personality because it mostly leads to self-sabotage. Narcissistic Personality is a calculated solution involving manipulation of others. Avoidant personality is a collapse from the narcissistic personality, due to the awareness of people’s judgments or unwillingness to manipulate, still a calculated solution.
 
 One Easy solution currently could be, preventing Early Shame. 
 
