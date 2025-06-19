@@ -20,6 +20,7 @@ Recently, I got to know about the word, emotional regulation. I was confused. Th
 I really wanted to regulate my emotions but I didn’t know how. Then, one day I saw that video on the LinkedIn platform. In that video they said that they would like to think of emotional regulation as “You are hurting but I am not, it’s not my time for the hurt, I am not affected by the event physically so I don’t want to let it affect my emotions.”
 
 Such simple words na?
+
 ---
 
 **What do you think?** Let me know your thoughts in the comments below.
