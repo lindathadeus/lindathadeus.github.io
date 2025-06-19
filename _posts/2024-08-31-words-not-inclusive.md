@@ -33,7 +33,7 @@ In fact, Priscilla Dunstan, an expert in baby language, discovered a few sounds 
 
 Also, if we want to reduce communication with strangers, we can physically reduce the distance and use actions alongside words.
 
-### So, Isn’t It Better to Reduce Words and Use Other Sensory Inputs Like Facial Expressions and Body Language Along with Words?
+So, Isn’t It Better to Reduce Words and Use Other Sensory Inputs Like Facial Expressions and Body Language Along with Words?
 
 ---
 
