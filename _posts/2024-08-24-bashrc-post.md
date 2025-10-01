@@ -9,7 +9,7 @@ authors:
 - name: Linda Joe Thadeus
 url: "https://lindathadeus.github.io"
 affiliations:
-name: Org, NITK
+name: Org
 ---
 
 # My bashrc
